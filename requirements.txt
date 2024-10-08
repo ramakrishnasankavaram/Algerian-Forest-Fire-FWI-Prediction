@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 numpy 
 pandas 
 seaborn
 matplotlib.pyplot
 sklearn
+=======
+numpy 
+pandas 
+seaborn
+matplotlib.pyplot
+sklearn
+>>>>>>> c62832dd7d2676efe5d336caaac58fef7ba3d700
 Flask
